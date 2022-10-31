@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "683350531210",
+    "project_id": "chopeandcharity",
+    "storage_bucket": "chopeandcharity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683350531210:android:a6265018b822815538e173",
+        "android_client_info": {
+          "package_name": "com.kpioc.hospital_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683350531210-gdnga0d833c67599hmdscvtddc88730f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj89xhY1j9u1ItgjwwD_dJp2saOxJb-VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683350531210-gdnga0d833c67599hmdscvtddc88730f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "683350531210-uqej5f0oeluk77mis7qsu96gr5h1hnc3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kpioc.hospitalManagementSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
